@@ -1,0 +1,9 @@
+.radioButtons label {
+  display: inline-block;
+  padding: 1em;
+  cursor: pointer;
+  text-align: center;
+}
+input[type="radio"] {
+  display: inline-block;
+}
